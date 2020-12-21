@@ -1,1 +1,1 @@
-# Easy Docker on Selenium Grid(Chrome and Firefox)
+# Selenium Grid on Docker (Chrome and Firefox)
